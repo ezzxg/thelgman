@@ -1,0 +1,245 @@
+
+[
+  {
+    "name": "America",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/america_tv_argentina-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "737a88876b64489ab46cf69f8c5dfe5a",
+          "key": "bf0ae0a5210cb0604e465690c201eec4"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Telefe",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "93f2e70d452d4fc2ae0c477ca66b29be",
+          "key": "b204d146d7f369bc3c5a87acfcfb6532"
+        }
+      ]
+    }
+  },
+  {
+    "name": "El Trece",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_TR3C3/sa_live_dash/C4N4L_TR3C3.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/13_de_argentina-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "6e88815a08b44c73a191161d3c15d890",
+          "key": "9193a6d29f77bd651b9277f8f70b61b5"
+        }
+      ]
+    }
+  },
+  {
+    "name": "El Nueve",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/9_de_argentina-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "9f1527881baf4166865452f046d8f445",
+          "key": "d192df40da8a2c752a8a921f827c325f"
+        }
+      ]
+    }
+  },
+  {
+    "name": "TV Publica",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/330px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "9825d6a017d5406e8bc50bb2bc7857c9",
+          "key": "26196b3593c359c226bb7637cb188ce4"
+        }
+      ]
+    }
+  },
+  {
+    "name": "A24",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/a_24-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "aaa33fd380564479b57ab8296570aa3a",
+          "key": "a89018f86f4402ad626bec3803bf3194"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cronica",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/CR0N1C4_TV/sa_live_dash/CR0N1C4_TV.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/cronica_television-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "f37298e504974d279d241a77fd872620",
+          "key": "866fcb859136415b83960cda9863d445"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Canal 26",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/26_de_argentina-mediano.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "0b835e5cb05e431cb57a3dcc775e4d0f",
+          "key": "21e9e0ab74fc12306a2624a1ee80eef2"
+        }
+      ]
+    }
+  },
+  {
+    "name": "La Nacion Mas",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/L4_NACION_M45/sa_live_dash/L4_NACION_M45.mpd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/320px-La-Nacion-Mas-Logo.svg.png",
+    "category": "Argentina",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "9ca7e4a4a0314d15bad3b2066b4f1b30",
+          "key": "bc77f956816ee72f9e02f8d43fee43c5"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ESPN",
+    "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+    "category": "Deportes",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "e884b711ab111beb8a7ba1e7bcbdc9bf",
+          "key": "cb89ee3961599e3e648a5aad60895f34"
+        }
+      ]
+    }
+  },
+  {
+    "name": "TyC Sports HD",
+    "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+    "category": "Deportes",
+    "isLive": true,
+    "isHD": true,
+    "headers": null,
+    "drm": {
+      "license_url": "URL_DE_LA_LICENCIA_DRM",
+      "key_request_properties": {
+        "custom_header": "custom_value"
+      },
+      "scheme": "clearkey",
+      "keys": [
+        {
+          "kid": "58b7b99c78d841bd841ffcf001a2c397",
+          "key": "eccfd978965e89e1afe14d7c3b38f7d8"
+        }
+      ]
+    }
+  }
+]
