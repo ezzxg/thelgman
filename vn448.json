@@ -198,28 +198,30 @@
       ]
     }
   },
-  {
-    "name": "ESPN",
-    "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
-    "logo": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-    "category": "Deportes",
-    "isLive": true,
-    "isHD": true,
-    "headers": null,
-    "drm": {
-      "license_url": "URL_DE_LA_LICENCIA_DRM",
-      "key_request_properties": {
-        "custom_header": "custom_value"
-      },
-      "scheme": "clearkey",
-      "keys": [
-        {
-          "kid": "e884b711ab111beb8a7ba1e7bcbdc9bf",
-          "key": "cb89ee3961599e3e648a5aad60895f34"
-        }
-      ]
-    }
-  },
+{
+  "name": "ESPN",
+  "url": [
+    "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",    "http://201.217.246.177:8000/play/a06d/index.m3u8"
+  ],
+  "logo": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+  "category": "Deportes",
+  "isLive": true,
+  "isHD": true,
+  "headers": null,
+  "drm": {
+    "license_url": "URL_DE_LA_LICENCIA_DRM",
+    "key_request_properties": {
+      "custom_header": "custom_value"
+    },
+    "scheme": "clearkey",
+    "keys": [
+      {
+        "kid": "e884b711ab111beb8a7ba1e7bcbdc9bf",
+        "key": "cb89ee3961599e3e648a5aad60895f34"
+      }
+    ]
+  }
+},
   {
     "name": "TyC Sports HD",
     "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_21-5/sa_live_dash_ll/TYC_SPORTS_21-5.mpd",
